@@ -1,5 +1,3 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/189YWnXNSFJH0ehuzsR0iGuabEHEcvT7j
-mountpoints:
   /: https://drive.google.com/drive/folders/103p_4_RQhK_fZT3ccg_-v5YgBQfyXBbw
 
